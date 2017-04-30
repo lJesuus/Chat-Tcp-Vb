@@ -1,0 +1,38 @@
+C:\Users\Jesus Hernandez\Desktop\Proyecto -.-\Chataca - Esto no es un server v90\Rapid Chat\bin\Debug\Chataca.exe.config
+C:\Users\Jesus Hernandez\Desktop\Proyecto -.-\Chataca - Esto no es un server v90\Rapid Chat\obj\Debug\Chataca.exe
+C:\Users\Jesus Hernandez\Desktop\Proyecto -.-\Chataca - Esto no es un server v90\Rapid Chat\obj\Debug\Chataca.xml
+C:\Users\Jesus Hernandez\Desktop\Proyecto -.-\Chataca - Esto no es un server v90\Rapid Chat\obj\Debug\Chataca.pdb
+C:\Users\Jesus Hernandez\Desktop\Proyecto -.-\Chataca - Esto no es un server v90\Rapid Chat\bin\Debug\Chataca.exe
+C:\Users\Jesus Hernandez\Desktop\Proyecto -.-\Chataca - Esto no es un server v90\Rapid Chat\bin\Debug\Chataca.pdb
+C:\Users\Jesus Hernandez\Desktop\Proyecto -.-\Chataca - Esto no es un server v90\Rapid Chat\bin\Debug\Chataca.xml
+C:\Users\Jesus Hernandez\Desktop\Proyecto -.-\Chataca - Esto no es un server v90\Rapid Chat\bin\Debug\VistaControls.xml
+C:\Users\Jesus Hernandez\Desktop\Proyecto -.-\Chataca - Esto no es un server v90\Rapid Chat\bin\Debug\RapChatLib.pdb
+C:\Users\Jesus Hernandez\Desktop\Proyecto -.-\Chataca - Esto no es un server v90\Rapid Chat\bin\Debug\RapChatLib.xml
+C:\Users\Jesus Hernandez\Desktop\Proyecto -.-\Chataca - Esto no es un server v90\Rapid Chat\bin\Debug\IconComboBox.xml
+C:\Users\Jesus Hernandez\Desktop\Proyecto -.-\Chataca - Esto no es un server v90\Rapid Chat\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jesus Hernandez\Desktop\Proyecto -.-\Chataca - Esto no es un server v90\Rapid Chat\obj\Debug\Chataca.Chat.resources
+C:\Users\Jesus Hernandez\Desktop\Proyecto -.-\Chataca - Esto no es un server v90\Rapid Chat\obj\Debug\Chataca.IP.resources
+C:\Users\Jesus Hernandez\Desktop\Proyecto -.-\Chataca - Esto no es un server v90\Rapid Chat\obj\Debug\Chataca.Resources.resources
+C:\Users\Jesus Hernandez\Desktop\Proyecto -.-\Chataca - Esto no es un server v90\Rapid Chat\obj\Debug\Chataca.frmNewAddress.resources
+C:\Users\Jesus Hernandez\Desktop\Proyecto -.-\Chataca - Esto no es un server v90\Rapid Chat\obj\Debug\Chataca.vbproj.GenerateResource.Cache
+C:\Users\Jesus Hernandez\Desktop\Proyecto Cliente-Server - copia\Chataca - Esto no es un server v90\Rapid Chat\bin\Debug\Chataca.exe.config
+C:\Users\Jesus Hernandez\Desktop\Proyecto Cliente-Server - copia\Chataca - Esto no es un server v90\Rapid Chat\obj\Debug\Chataca.exe
+C:\Users\Jesus Hernandez\Desktop\Proyecto Cliente-Server - copia\Chataca - Esto no es un server v90\Rapid Chat\obj\Debug\Chataca.xml
+C:\Users\Jesus Hernandez\Desktop\Proyecto Cliente-Server - copia\Chataca - Esto no es un server v90\Rapid Chat\obj\Debug\Chataca.pdb
+C:\Users\Jesus Hernandez\Desktop\Proyecto Cliente.Server - Cliente.Cliente\Chataca - Esto no es un server v90\Rapid Chat\bin\Debug\Chataca.exe.config
+C:\Users\Jesus Hernandez\Desktop\Proyecto Cliente.Server - Cliente.Cliente\Chataca - Esto no es un server v90\Rapid Chat\obj\Debug\Chataca.exe
+C:\Users\Jesus Hernandez\Desktop\Proyecto Cliente.Server - Cliente.Cliente\Chataca - Esto no es un server v90\Rapid Chat\obj\Debug\Chataca.xml
+C:\Users\Jesus Hernandez\Desktop\Proyecto Cliente.Server - Cliente.Cliente\Chataca - Esto no es un server v90\Rapid Chat\obj\Debug\Chataca.pdb
+C:\Users\Jesus Hernandez\Desktop\Proyecto Cliente.Server - Cliente.Cliente\Chataca - Esto no es un server v90\Rapid Chat\bin\Debug\Chataca.exe
+C:\Users\Jesus Hernandez\Desktop\Proyecto Cliente.Server - Cliente.Cliente\Chataca - Esto no es un server v90\Rapid Chat\bin\Debug\Chataca.pdb
+C:\Users\Jesus Hernandez\Desktop\Proyecto Cliente.Server - Cliente.Cliente\Chataca - Esto no es un server v90\Rapid Chat\bin\Debug\Chataca.xml
+C:\Users\Jesus Hernandez\Desktop\Proyecto Cliente.Server - Cliente.Cliente\Chataca - Esto no es un server v90\Rapid Chat\bin\Debug\VistaControls.xml
+C:\Users\Jesus Hernandez\Desktop\Proyecto Cliente.Server - Cliente.Cliente\Chataca - Esto no es un server v90\Rapid Chat\bin\Debug\RapChatLib.pdb
+C:\Users\Jesus Hernandez\Desktop\Proyecto Cliente.Server - Cliente.Cliente\Chataca - Esto no es un server v90\Rapid Chat\bin\Debug\RapChatLib.xml
+C:\Users\Jesus Hernandez\Desktop\Proyecto Cliente.Server - Cliente.Cliente\Chataca - Esto no es un server v90\Rapid Chat\bin\Debug\IconComboBox.xml
+C:\Users\Jesus Hernandez\Desktop\Proyecto Cliente.Server - Cliente.Cliente\Chataca - Esto no es un server v90\Rapid Chat\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jesus Hernandez\Desktop\Proyecto Cliente.Server - Cliente.Cliente\Chataca - Esto no es un server v90\Rapid Chat\obj\Debug\Chataca.Chat.resources
+C:\Users\Jesus Hernandez\Desktop\Proyecto Cliente.Server - Cliente.Cliente\Chataca - Esto no es un server v90\Rapid Chat\obj\Debug\Chataca.IP.resources
+C:\Users\Jesus Hernandez\Desktop\Proyecto Cliente.Server - Cliente.Cliente\Chataca - Esto no es un server v90\Rapid Chat\obj\Debug\Chataca.Resources.resources
+C:\Users\Jesus Hernandez\Desktop\Proyecto Cliente.Server - Cliente.Cliente\Chataca - Esto no es un server v90\Rapid Chat\obj\Debug\Chataca.frmNewAddress.resources
+C:\Users\Jesus Hernandez\Desktop\Proyecto Cliente.Server - Cliente.Cliente\Chataca - Esto no es un server v90\Rapid Chat\obj\Debug\Chataca.vbproj.GenerateResource.Cache
