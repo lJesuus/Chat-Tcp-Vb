@@ -1,0 +1,162 @@
+C:\Users\Jesus Hernandez\Desktop\Rapid Chat\Rapid Chat\bin\Debug\Rapid Chat.exe.config
+C:\Users\Jesus Hernandez\Desktop\Rapid Chat\Rapid Chat\bin\Debug\Rapid Chat.exe
+C:\Users\Jesus Hernandez\Desktop\Rapid Chat\Rapid Chat\bin\Debug\Rapid Chat.pdb
+C:\Users\Jesus Hernandez\Desktop\Rapid Chat\Rapid Chat\bin\Debug\Rapid Chat.xml
+C:\Users\Jesus Hernandez\Desktop\Rapid Chat\Rapid Chat\bin\Debug\VistaControls.xml
+C:\Users\Jesus Hernandez\Desktop\Rapid Chat\Rapid Chat\bin\Debug\RapChatLib.pdb
+C:\Users\Jesus Hernandez\Desktop\Rapid Chat\Rapid Chat\bin\Debug\RapChatLib.xml
+C:\Users\Jesus Hernandez\Desktop\Rapid Chat\Rapid Chat\bin\Debug\IconComboBox.xml
+C:\Users\Jesus Hernandez\Desktop\Rapid Chat\Rapid Chat\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jesus Hernandez\Desktop\Rapid Chat\Rapid Chat\obj\Debug\Rapid_Chat.Form1.resources
+C:\Users\Jesus Hernandez\Desktop\Rapid Chat\Rapid Chat\obj\Debug\Rapid_Chat.frmMessage.resources
+C:\Users\Jesus Hernandez\Desktop\Rapid Chat\Rapid Chat\obj\Debug\Rapid_Chat.frmMyData.resources
+C:\Users\Jesus Hernandez\Desktop\Rapid Chat\Rapid Chat\obj\Debug\Rapid_Chat.frmNewAddress.resources
+C:\Users\Jesus Hernandez\Desktop\Rapid Chat\Rapid Chat\obj\Debug\Rapid_Chat.frmSettings.resources
+C:\Users\Jesus Hernandez\Desktop\Rapid Chat\Rapid Chat\obj\Debug\Rapid_Chat.Resources.resources
+C:\Users\Jesus Hernandez\Desktop\Rapid Chat\Rapid Chat\obj\Debug\Rapid Chat.vbproj.GenerateResource.Cache
+C:\Users\Jesus Hernandez\Desktop\Rapid Chat\Rapid Chat\obj\Debug\Rapid Chat.exe
+C:\Users\Jesus Hernandez\Desktop\Rapid Chat\Rapid Chat\obj\Debug\Rapid Chat.xml
+C:\Users\Jesus Hernandez\Desktop\Rapid Chat\Rapid Chat\obj\Debug\Rapid Chat.pdb
+C:\Users\Jesus Hernandez\Desktop\Proyecto\Rapid Chat - copia\Rapid Chat\bin\Debug\Rapid Chat.exe.config
+C:\Users\Jesus Hernandez\Desktop\Proyecto\Rapid Chat - copia\Rapid Chat\obj\Debug\Rapid Chat.exe
+C:\Users\Jesus Hernandez\Desktop\Proyecto\Rapid Chat - copia\Rapid Chat\obj\Debug\Rapid Chat.xml
+C:\Users\Jesus Hernandez\Desktop\Proyecto\Rapid Chat - copia\Rapid Chat\obj\Debug\Rapid Chat.pdb
+C:\Users\Jesus Hernandez\Desktop\Proyecto\Rapid Chat - copia\Rapid Chat\bin\Debug\Rapid Chat.exe
+C:\Users\Jesus Hernandez\Desktop\Proyecto\Rapid Chat - copia\Rapid Chat\bin\Debug\Rapid Chat.pdb
+C:\Users\Jesus Hernandez\Desktop\Proyecto\Rapid Chat - copia\Rapid Chat\bin\Debug\Rapid Chat.xml
+C:\Users\Jesus Hernandez\Desktop\Proyecto\Rapid Chat - copia\Rapid Chat\bin\Debug\VistaControls.xml
+C:\Users\Jesus Hernandez\Desktop\Proyecto\Rapid Chat - copia\Rapid Chat\bin\Debug\RapChatLib.pdb
+C:\Users\Jesus Hernandez\Desktop\Proyecto\Rapid Chat - copia\Rapid Chat\bin\Debug\RapChatLib.xml
+C:\Users\Jesus Hernandez\Desktop\Proyecto\Rapid Chat - copia\Rapid Chat\bin\Debug\IconComboBox.xml
+C:\Users\Jesus Hernandez\Desktop\Proyecto\Rapid Chat - copia\Rapid Chat\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jesus Hernandez\Desktop\Proyecto\Rapid Chat - copia\Rapid Chat\obj\Debug\Rapid_Chat.Form1.resources
+C:\Users\Jesus Hernandez\Desktop\Proyecto\Rapid Chat - copia\Rapid Chat\obj\Debug\Rapid_Chat.frmMessage.resources
+C:\Users\Jesus Hernandez\Desktop\Proyecto\Rapid Chat - copia\Rapid Chat\obj\Debug\Rapid_Chat.frmMyData.resources
+C:\Users\Jesus Hernandez\Desktop\Proyecto\Rapid Chat - copia\Rapid Chat\obj\Debug\Rapid_Chat.frmNewAddress.resources
+C:\Users\Jesus Hernandez\Desktop\Proyecto\Rapid Chat - copia\Rapid Chat\obj\Debug\Rapid_Chat.frmSettings.resources
+C:\Users\Jesus Hernandez\Desktop\Proyecto\Rapid Chat - copia\Rapid Chat\obj\Debug\Rapid_Chat.Resources.resources
+C:\Users\Jesus Hernandez\Desktop\Proyecto\Rapid Chat - copia\Rapid Chat\obj\Debug\Rapid Chat.vbproj.GenerateResource.Cache
+C:\Users\clases\Desktop\Rapid Chat - copia\Rapid Chat\bin\Debug\Rapid Chat.exe.config
+C:\Users\clases\Desktop\Rapid Chat - copia\Rapid Chat\obj\Debug\Rapid Chat.exe
+C:\Users\clases\Desktop\Rapid Chat - copia\Rapid Chat\obj\Debug\Rapid Chat.xml
+C:\Users\clases\Desktop\Rapid Chat - copia\Rapid Chat\obj\Debug\Rapid Chat.pdb
+C:\Users\clases\Desktop\Rapid Chat - copia\Rapid Chat\bin\Debug\Rapid Chat.exe
+C:\Users\clases\Desktop\Rapid Chat - copia\Rapid Chat\bin\Debug\Rapid Chat.pdb
+C:\Users\clases\Desktop\Rapid Chat - copia\Rapid Chat\bin\Debug\Rapid Chat.xml
+C:\Users\clases\Desktop\Rapid Chat - copia\Rapid Chat\bin\Debug\VistaControls.xml
+C:\Users\clases\Desktop\Rapid Chat - copia\Rapid Chat\bin\Debug\RapChatLib.pdb
+C:\Users\clases\Desktop\Rapid Chat - copia\Rapid Chat\bin\Debug\RapChatLib.xml
+C:\Users\clases\Desktop\Rapid Chat - copia\Rapid Chat\bin\Debug\IconComboBox.xml
+C:\Users\clases\Desktop\Rapid Chat - copia\Rapid Chat\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\clases\Desktop\Rapid Chat - copia\Rapid Chat\obj\Debug\Rapid_Chat.Form1.resources
+C:\Users\clases\Desktop\Rapid Chat - copia\Rapid Chat\obj\Debug\Rapid_Chat.frmMyData.resources
+C:\Users\clases\Desktop\Rapid Chat - copia\Rapid Chat\obj\Debug\Rapid_Chat.frmNewAddress.resources
+C:\Users\clases\Desktop\Rapid Chat - copia\Rapid Chat\obj\Debug\Rapid_Chat.frmSettings.resources
+C:\Users\clases\Desktop\Rapid Chat - copia\Rapid Chat\obj\Debug\Rapid_Chat.Resources.resources
+C:\Users\clases\Desktop\Rapid Chat - copia\Rapid Chat\obj\Debug\Rapid Chat.vbproj.GenerateResource.Cache
+C:\Users\Jesus Hernandez\Desktop\Rapid Chat - copia\Rapid Chat\bin\Debug\Rapid Chat.exe.config
+C:\Users\Jesus Hernandez\Desktop\Rapid Chat - copia\Rapid Chat\obj\Debug\Rapid Chat.exe
+C:\Users\Jesus Hernandez\Desktop\Rapid Chat - copia\Rapid Chat\obj\Debug\Rapid Chat.xml
+C:\Users\Jesus Hernandez\Desktop\Rapid Chat - copia\Rapid Chat\obj\Debug\Rapid Chat.pdb
+C:\Users\Jesus Hernandez\Desktop\Rapid Chat - copia\Rapid Chat\bin\Debug\Rapid Chat.exe
+C:\Users\Jesus Hernandez\Desktop\Rapid Chat - copia\Rapid Chat\bin\Debug\Rapid Chat.pdb
+C:\Users\Jesus Hernandez\Desktop\Rapid Chat - copia\Rapid Chat\bin\Debug\Rapid Chat.xml
+C:\Users\Jesus Hernandez\Desktop\Rapid Chat - copia\Rapid Chat\bin\Debug\VistaControls.xml
+C:\Users\Jesus Hernandez\Desktop\Rapid Chat - copia\Rapid Chat\bin\Debug\RapChatLib.pdb
+C:\Users\Jesus Hernandez\Desktop\Rapid Chat - copia\Rapid Chat\bin\Debug\RapChatLib.xml
+C:\Users\Jesus Hernandez\Desktop\Rapid Chat - copia\Rapid Chat\bin\Debug\IconComboBox.xml
+C:\Users\Jesus Hernandez\Desktop\Rapid Chat - copia\Rapid Chat\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jesus Hernandez\Desktop\Rapid Chat - copia\Rapid Chat\obj\Debug\Rapid_Chat.Form1.resources
+C:\Users\Jesus Hernandez\Desktop\Rapid Chat - copia\Rapid Chat\obj\Debug\Rapid_Chat.frmMyData.resources
+C:\Users\Jesus Hernandez\Desktop\Rapid Chat - copia\Rapid Chat\obj\Debug\Rapid_Chat.frmNewAddress.resources
+C:\Users\Jesus Hernandez\Desktop\Rapid Chat - copia\Rapid Chat\obj\Debug\Rapid_Chat.Resources.resources
+C:\Users\Jesus Hernandez\Desktop\Rapid Chat - copia\Rapid Chat\obj\Debug\Rapid Chat.vbproj.GenerateResource.Cache
+C:\Users\Jesus Hernandez\Desktop\Proyecto Chat\Chataca\Rapid Chat\bin\Debug\Chataca.exe.config
+C:\Users\Jesus Hernandez\Desktop\Proyecto Chat\Chataca\Rapid Chat\bin\Debug\Chataca.exe
+C:\Users\Jesus Hernandez\Desktop\Proyecto Chat\Chataca\Rapid Chat\bin\Debug\Chataca.pdb
+C:\Users\Jesus Hernandez\Desktop\Proyecto Chat\Chataca\Rapid Chat\bin\Debug\Chataca.xml
+C:\Users\Jesus Hernandez\Desktop\Proyecto Chat\Chataca\Rapid Chat\bin\Debug\VistaControls.xml
+C:\Users\Jesus Hernandez\Desktop\Proyecto Chat\Chataca\Rapid Chat\bin\Debug\RapChatLib.pdb
+C:\Users\Jesus Hernandez\Desktop\Proyecto Chat\Chataca\Rapid Chat\bin\Debug\RapChatLib.xml
+C:\Users\Jesus Hernandez\Desktop\Proyecto Chat\Chataca\Rapid Chat\bin\Debug\IconComboBox.xml
+C:\Users\Jesus Hernandez\Desktop\Proyecto Chat\Chataca\Rapid Chat\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jesus Hernandez\Desktop\Proyecto Chat\Chataca\Rapid Chat\obj\Debug\Chataca.Form1.resources
+C:\Users\Jesus Hernandez\Desktop\Proyecto Chat\Chataca\Rapid Chat\obj\Debug\Chataca.frmMyData.resources
+C:\Users\Jesus Hernandez\Desktop\Proyecto Chat\Chataca\Rapid Chat\obj\Debug\Chataca.frmNewAddress.resources
+C:\Users\Jesus Hernandez\Desktop\Proyecto Chat\Chataca\Rapid Chat\obj\Debug\Chataca.Resources.resources
+C:\Users\Jesus Hernandez\Desktop\Proyecto Chat\Chataca\Rapid Chat\obj\Debug\Rapid Chat.vbproj.GenerateResource.Cache
+C:\Users\Jesus Hernandez\Desktop\Proyecto Chat\Chataca\Rapid Chat\obj\Debug\Chataca.exe
+C:\Users\Jesus Hernandez\Desktop\Proyecto Chat\Chataca\Rapid Chat\obj\Debug\Chataca.xml
+C:\Users\Jesus Hernandez\Desktop\Proyecto Chat\Chataca\Rapid Chat\obj\Debug\Chataca.pdb
+C:\Users\clases\Desktop\Chataca\Rapid Chat\bin\Debug\Chataca.exe.config
+C:\Users\clases\Desktop\Chataca\Rapid Chat\obj\Debug\Chataca.exe
+C:\Users\clases\Desktop\Chataca\Rapid Chat\obj\Debug\Chataca.xml
+C:\Users\clases\Desktop\Chataca\Rapid Chat\obj\Debug\Chataca.pdb
+C:\Users\clases\Desktop\Chataca\Rapid Chat\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\clases\Desktop\Chataca\Rapid Chat\obj\Debug\Chataca.Chat.resources
+C:\Users\clases\Desktop\Chataca\Rapid Chat\obj\Debug\Chataca.IP.resources
+C:\Users\clases\Desktop\Chataca\Rapid Chat\obj\Debug\Chataca.frmNewAddress.resources
+C:\Users\clases\Desktop\Chataca\Rapid Chat\obj\Debug\Chataca.Resources.resources
+C:\Users\clases\Desktop\Chataca\Rapid Chat\obj\Debug\Rapid Chat.vbproj.GenerateResource.Cache
+C:\Users\clases\Desktop\Chataca\Rapid Chat\bin\Debug\Chataca.exe
+C:\Users\clases\Desktop\Chataca\Rapid Chat\bin\Debug\Chataca.pdb
+C:\Users\clases\Desktop\Chataca\Rapid Chat\bin\Debug\Chataca.xml
+C:\Users\clases\Desktop\Chataca\Rapid Chat\bin\Debug\VistaControls.xml
+C:\Users\clases\Desktop\Chataca\Rapid Chat\bin\Debug\RapChatLib.pdb
+C:\Users\clases\Desktop\Chataca\Rapid Chat\bin\Debug\RapChatLib.xml
+C:\Users\clases\Desktop\Chataca\Rapid Chat\bin\Debug\IconComboBox.xml
+G:\Chataca\Rapid Chat\bin\Debug\Chataca.exe.config
+G:\Chataca\Rapid Chat\obj\Debug\Chataca.exe
+G:\Chataca\Rapid Chat\obj\Debug\Chataca.xml
+G:\Chataca\Rapid Chat\obj\Debug\Chataca.pdb
+C:\Users\Jesus Hernandez\Documents\Chataca\Rapid Chat\bin\Debug\Chataca.exe.config
+C:\Users\Jesus Hernandez\Documents\Chataca\Rapid Chat\obj\Debug\Chataca.exe
+C:\Users\Jesus Hernandez\Documents\Chataca\Rapid Chat\obj\Debug\Chataca.xml
+C:\Users\Jesus Hernandez\Documents\Chataca\Rapid Chat\obj\Debug\Chataca.pdb
+C:\Users\Jesus Hernandez\Documents\Chataca\Rapid Chat\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jesus Hernandez\Documents\Chataca\Rapid Chat\obj\Debug\Chataca.Chat.resources
+C:\Users\Jesus Hernandez\Documents\Chataca\Rapid Chat\obj\Debug\Chataca.IP.resources
+C:\Users\Jesus Hernandez\Documents\Chataca\Rapid Chat\obj\Debug\Chataca.frmNewAddress.resources
+C:\Users\Jesus Hernandez\Documents\Chataca\Rapid Chat\obj\Debug\Chataca.Resources.resources
+C:\Users\Jesus Hernandez\Documents\Chataca\Rapid Chat\obj\Debug\Rapid Chat.vbproj.GenerateResource.Cache
+C:\Users\Jesus Hernandez\Documents\Chataca\Rapid Chat\bin\Debug\Chataca.exe
+C:\Users\Jesus Hernandez\Documents\Chataca\Rapid Chat\bin\Debug\Chataca.pdb
+C:\Users\Jesus Hernandez\Documents\Chataca\Rapid Chat\bin\Debug\Chataca.xml
+C:\Users\Jesus Hernandez\Documents\Chataca\Rapid Chat\bin\Debug\VistaControls.xml
+C:\Users\Jesus Hernandez\Documents\Chataca\Rapid Chat\bin\Debug\RapChatLib.pdb
+C:\Users\Jesus Hernandez\Documents\Chataca\Rapid Chat\bin\Debug\RapChatLib.xml
+C:\Users\Jesus Hernandez\Documents\Chataca\Rapid Chat\bin\Debug\IconComboBox.xml
+C:\Users\Jesus Hernandez\Desktop\Proyecto -.-\Chataca - Esto es un cliente v80\Rapid Chat\bin\Debug\Chataca.exe.config
+C:\Users\Jesus Hernandez\Desktop\Proyecto -.-\Chataca - Esto es un cliente v80\Rapid Chat\obj\Debug\Chataca.exe
+C:\Users\Jesus Hernandez\Desktop\Proyecto -.-\Chataca - Esto es un cliente v80\Rapid Chat\obj\Debug\Chataca.xml
+C:\Users\Jesus Hernandez\Desktop\Proyecto -.-\Chataca - Esto es un cliente v80\Rapid Chat\obj\Debug\Chataca.pdb
+C:\Users\Jesus Hernandez\Desktop\Proyecto -.-\Chataca - Esto es un cliente v80\Rapid Chat\bin\Debug\Chataca.exe
+C:\Users\Jesus Hernandez\Desktop\Proyecto -.-\Chataca - Esto es un cliente v80\Rapid Chat\bin\Debug\Chataca.pdb
+C:\Users\Jesus Hernandez\Desktop\Proyecto -.-\Chataca - Esto es un cliente v80\Rapid Chat\bin\Debug\Chataca.xml
+C:\Users\Jesus Hernandez\Desktop\Proyecto -.-\Chataca - Esto es un cliente v80\Rapid Chat\bin\Debug\VistaControls.xml
+C:\Users\Jesus Hernandez\Desktop\Proyecto -.-\Chataca - Esto es un cliente v80\Rapid Chat\bin\Debug\RapChatLib.pdb
+C:\Users\Jesus Hernandez\Desktop\Proyecto -.-\Chataca - Esto es un cliente v80\Rapid Chat\bin\Debug\RapChatLib.xml
+C:\Users\Jesus Hernandez\Desktop\Proyecto -.-\Chataca - Esto es un cliente v80\Rapid Chat\bin\Debug\IconComboBox.xml
+C:\Users\Jesus Hernandez\Desktop\Proyecto -.-\Chataca - Esto es un cliente v80\Rapid Chat\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jesus Hernandez\Desktop\Proyecto -.-\Chataca - Esto es un cliente v80\Rapid Chat\obj\Debug\Chataca.Chat.resources
+C:\Users\Jesus Hernandez\Desktop\Proyecto -.-\Chataca - Esto es un cliente v80\Rapid Chat\obj\Debug\Chataca.IP.resources
+C:\Users\Jesus Hernandez\Desktop\Proyecto -.-\Chataca - Esto es un cliente v80\Rapid Chat\obj\Debug\Chataca.frmNewAddress.resources
+C:\Users\Jesus Hernandez\Desktop\Proyecto -.-\Chataca - Esto es un cliente v80\Rapid Chat\obj\Debug\Chataca.Resources.resources
+C:\Users\Jesus Hernandez\Desktop\Proyecto -.-\Chataca - Esto es un cliente v80\Rapid Chat\obj\Debug\Rapid Chat.vbproj.GenerateResource.Cache
+C:\Users\Jesus Hernandez\Desktop\Proyecto Cliente.Server - Cliente.Cliente\Chataca - Esto es un cliente v80\Rapid Chat\bin\Debug\Chataca.exe.config
+C:\Users\Jesus Hernandez\Desktop\Proyecto Cliente.Server - Cliente.Cliente\Chataca - Esto es un cliente v80\Rapid Chat\obj\Debug\Chataca.exe
+C:\Users\Jesus Hernandez\Desktop\Proyecto Cliente.Server - Cliente.Cliente\Chataca - Esto es un cliente v80\Rapid Chat\obj\Debug\Chataca.xml
+C:\Users\Jesus Hernandez\Desktop\Proyecto Cliente.Server - Cliente.Cliente\Chataca - Esto es un cliente v80\Rapid Chat\obj\Debug\Chataca.pdb
+C:\Users\Jesus Hernandez\Desktop\Proyecto Cliente.Server - Cliente.Cliente\Chataca - Esto es un cliente v80\Rapid Chat\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jesus Hernandez\Desktop\Proyecto Cliente.Server - Cliente.Cliente\Chataca - Esto es un cliente v80\Rapid Chat\obj\Debug\Chataca.Chat.resources
+C:\Users\Jesus Hernandez\Desktop\Proyecto Cliente.Server - Cliente.Cliente\Chataca - Esto es un cliente v80\Rapid Chat\obj\Debug\Chataca.IP.resources
+C:\Users\Jesus Hernandez\Desktop\Proyecto Cliente.Server - Cliente.Cliente\Chataca - Esto es un cliente v80\Rapid Chat\obj\Debug\Chataca.frmNewAddress.resources
+C:\Users\Jesus Hernandez\Desktop\Proyecto Cliente.Server - Cliente.Cliente\Chataca - Esto es un cliente v80\Rapid Chat\obj\Debug\Chataca.Resources.resources
+C:\Users\Jesus Hernandez\Desktop\Proyecto Cliente.Server - Cliente.Cliente\Chataca - Esto es un cliente v80\Rapid Chat\obj\Debug\Rapid Chat.vbproj.GenerateResource.Cache
+C:\Users\Jesus Hernandez\Desktop\Proyecto Cliente.Server - Cliente.Cliente\Chataca - Esto es un cliente v80\Rapid Chat\bin\Debug\Chataca.exe
+C:\Users\Jesus Hernandez\Desktop\Proyecto Cliente.Server - Cliente.Cliente\Chataca - Esto es un cliente v80\Rapid Chat\bin\Debug\Chataca.pdb
+C:\Users\Jesus Hernandez\Desktop\Proyecto Cliente.Server - Cliente.Cliente\Chataca - Esto es un cliente v80\Rapid Chat\bin\Debug\Chataca.xml
+C:\Users\Jesus Hernandez\Desktop\Proyecto Cliente.Server - Cliente.Cliente\Chataca - Esto es un cliente v80\Rapid Chat\bin\Debug\VistaControls.xml
+C:\Users\Jesus Hernandez\Desktop\Proyecto Cliente.Server - Cliente.Cliente\Chataca - Esto es un cliente v80\Rapid Chat\bin\Debug\RapChatLib.pdb
+C:\Users\Jesus Hernandez\Desktop\Proyecto Cliente.Server - Cliente.Cliente\Chataca - Esto es un cliente v80\Rapid Chat\bin\Debug\RapChatLib.xml
+C:\Users\Jesus Hernandez\Desktop\Proyecto Cliente.Server - Cliente.Cliente\Chataca - Esto es un cliente v80\Rapid Chat\bin\Debug\IconComboBox.xml
